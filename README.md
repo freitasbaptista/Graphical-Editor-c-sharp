@@ -58,7 +58,6 @@ RRRRR
 RRRRR
 
 
-
 Submission
 
 We prefer submissions in Ruby although we will accept them in other languages. 
