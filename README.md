@@ -33,6 +33,7 @@ also belongs to this region.
 8. X. Terminate the session
 Example
 In the example below, > denotes input, => denotes program output.
+
 > I 5 6
 > L 2 3 U
 > S
@@ -55,6 +56,8 @@ RNRRR
 RNRRR
 RRRRR
 RRRRR
+
+
 
 Submission
 
@@ -221,4 +224,3 @@ namespace grafico_editor
 
     }
 }
-
